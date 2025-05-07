@@ -1,7 +1,7 @@
 {
   "name": "@datr.tech/db-freight",
   "description": "API for freight",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "private": false,
   "homepage": "https://github.com/datr.tech/db-freight",
   "repository": {
